@@ -1,0 +1,61 @@
+2020/2/17 13:43:29.353 Picked up SM_Plate_Blueprint8
+2020/2/17 13:43:33.997 Picked up BP_FD_Broccoli_Steamed_C_2147482431
+2020/2/17 13:43:37.861 Dropped BP_FD_Broccoli_Steamed_C_2147482431
+2020/2/17 13:43:40.18 Picked up BP_FD_Broccoli_Steamed_C_2147482431
+2020/2/17 13:43:41.615 Dropped BP_FD_Broccoli_Steamed_C_2147482431
+2020/2/17 13:43:41.860 Placed BP_FD_Broccoli_Steamed_C_2147482431 onto plate SM_Plate_Blueprint8
+2020/2/17 13:43:51.125 Picked up SM_FD_PizzaBite_Veggie_2
+2020/2/17 13:43:52.833 Dropped SM_FD_PizzaBite_Veggie_2
+2020/2/17 13:43:53.57 Placed SM_FD_PizzaBite_Veggie_2 onto plate SM_Plate_Blueprint8
+2020/2/17 13:44:11.580 Dropped BP_FD_Pasta_WholeGrain_C_2147482429
+2020/2/17 13:44:11.868 Placed BP_FD_Pasta_WholeGrain_C_2147482429 onto plate SM_Plate_Blueprint8
+2020/2/17 13:44:12.892 Picked up BP_FD_Pasta_WholeGrain_C_2147482429
+2020/2/17 13:44:2.318 Picked up BP_FD_Pasta_WholeGrain_C_2147482429
+2020/2/17 13:44:20.629 Dropped BP_FD_Pasta_WholeGrain_C_2147482429
+2020/2/17 13:44:20.823 Placed BP_FD_Pasta_WholeGrain_C_2147482429 onto plate SM_Plate_Blueprint8
+2020/2/17 13:44:25.953 Picked up BP_FD_Sauce_Marinara_C_2147482427
+2020/2/17 13:44:29.727 Dropped BP_FD_Sauce_Marinara_C_2147482427
+2020/2/17 13:44:30.16 Placed BP_FD_Sauce_Marinara_C_2147482427 onto plate SM_Plate_Blueprint8
+2020/2/17 13:44:36.736 Picked up BP_FD_Fries_SweetPotato_C_2147482425
+2020/2/17 13:44:38.291 Dropped BP_FD_Fries_SweetPotato_C_2147482425
+2020/2/17 13:44:38.601 Placed BP_FD_Fries_SweetPotato_C_2147482425 onto plate SM_Plate_Blueprint8
+2020/2/17 13:44:50.750 Dropped SM_Plate_Blueprint8
+2020/2/17 13:44:54.549 Picked up SM_Plate_Blueprint_2
+2020/2/17 13:44:57.453 Picked up SM_FD_Strawberry8
+2020/2/17 13:45:0.851 Dropped SM_FD_Strawberry8
+2020/2/17 13:45:1.74 Placed SM_FD_Strawberry8 onto plate SM_Plate_Blueprint_2
+2020/2/17 13:45:1.896 Picked up SM_FD_Strawberry3
+2020/2/17 13:45:13.578 Picked up SM_FD_Grapes_15
+2020/2/17 13:45:14.844 Dropped SM_FD_Grapes_15
+2020/2/17 13:45:15.68 Placed SM_FD_Grapes_15 onto plate SM_Plate_Blueprint_2
+2020/2/17 13:45:18.732 Picked up SM_FD_Grapes_12
+2020/2/17 13:45:20.130 Dropped SM_FD_Grapes_12
+2020/2/17 13:45:20.398 Placed SM_FD_Grapes_12 onto plate SM_Plate_Blueprint_2
+2020/2/17 13:45:24.551 Placed BP_FD_Fries_SweetPotato_C_2147482425 onto plate SM_Plate_Blueprint_2
+2020/2/17 13:45:24.680 Dropped SM_Plate_Blueprint_2
+2020/2/17 13:45:24.771 Placed BP_FD_Fries_SweetPotato_C_2147482425 onto plate SM_Plate_Blueprint8
+2020/2/17 13:45:25.14 Placed SM_RegesterCounter_2 onto plate SM_Plate_Blueprint_2
+2020/2/17 13:45:3.716 Dropped SM_FD_Strawberry3
+2020/2/17 13:45:3.918 Placed SM_FD_Strawberry3 onto plate SM_Plate_Blueprint_2
+2020/2/17 13:45:30.276 Picked up SM_BeverageCup_Blueprint4_219
+2020/2/17 13:45:4.782 Picked up SM_FD_Strawberry4
+2020/2/17 13:45:48.80 Dropped SM_BeverageCup_Blueprint4_219
+2020/2/17 13:45:5.961 Dropped SM_FD_Strawberry4
+2020/2/17 13:45:6.205 Placed SM_FD_Strawberry4 onto plate SM_Plate_Blueprint_2
+2020/2/17 13:45:7.27 Picked up SM_FD_Strawberry6
+2020/2/17 13:45:8.135 Dropped SM_FD_Strawberry6
+2020/2/17 13:45:8.539 Placed SM_FD_Strawberry6 onto plate SM_Plate_Blueprint_2
+SKA_BeverageLiquid_Juice_72%
+SM_FD_Broccoli_Steamed_Prtn_007
+SM_FD_Fries_SweetPotato_Prtn_004
+SM_FD_Grapes_02
+SM_FD_Grapes_02
+SM_FD_Pasta_WholeGrain_Prtn_006
+SM_FD_PizzaBite_Veggie_01
+SM_FD_Sauce_Marinara_Prtn_006
+SM_FD_Strawberry
+SM_FD_Strawberry
+SM_FD_Strawberry
+SM_FD_Strawberry
+SM_Plate
+SM_Plate

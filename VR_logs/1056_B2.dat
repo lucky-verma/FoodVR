@@ -1,0 +1,77 @@
+2020/3/3 11:47:11.1 Dropped BP_FD_Fries_SweetPotato_C_2147482172
+2020/3/3 11:47:11.201 Placed BP_FD_Fries_SweetPotato_C_2147482172 onto plate SM_Plate_Blueprint9
+2020/3/3 11:47:19.331 Picked up BP_FD_Pasta_White_C_2147482170
+2020/3/3 11:47:22.574 Dropped BP_FD_Pasta_White_C_2147482170
+2020/3/3 11:47:22.840 Placed BP_FD_Pasta_White_C_2147482170 onto plate SM_Plate_Blueprint9
+2020/3/3 11:47:26.592 Picked up SM_FD_Breadstick_9
+2020/3/3 11:47:29.459 Dropped SM_FD_Breadstick_9
+2020/3/3 11:47:29.659 Placed SM_FD_Breadstick_9 onto plate SM_Plate_Blueprint9
+2020/3/3 11:47:34.965 Picked up BP_FD_Chicken_Cajun_C_2147482168
+2020/3/3 11:47:38.12 Dropped BP_FD_Chicken_Cajun_C_2147482168
+2020/3/3 11:47:4.957 Picked up SM_Plate_Blueprint9
+2020/3/3 11:47:43.96 Picked up BP_FD_Carrots_Roasted_C_2147482166
+2020/3/3 11:47:46.429 Dropped BP_FD_Carrots_Roasted_C_2147482166
+2020/3/3 11:47:46.696 Placed BP_FD_Carrots_Roasted_C_2147482166 onto plate SM_Plate_Blueprint9
+2020/3/3 11:47:50.226 Dropped SM_Plate_Blueprint9
+2020/3/3 11:47:50.632 Placed SM_RegesterCounter_2 onto plate SM_Plate_Blueprint9
+2020/3/3 11:47:56.424 Picked up SM_Plate_Blueprint8
+2020/3/3 11:47:9.313 Picked up BP_FD_Fries_SweetPotato_C_2147482172
+2020/3/3 11:48:10.242 Picked up SM_FD_Strawberry8
+2020/3/3 11:48:11.753 Dropped SM_FD_Strawberry8
+2020/3/3 11:48:11.976 Placed SM_FD_Strawberry8 onto plate SM_Plate_Blueprint8
+2020/3/3 11:48:14.329 Picked up SM_FD_Strawberry6
+2020/3/3 11:48:15.486 Dropped SM_FD_Strawberry6
+2020/3/3 11:48:15.662 Placed SM_FD_Strawberry6 onto plate SM_Plate_Blueprint8
+2020/3/3 11:48:16.838 Picked up SM_FD_Grapes_06
+2020/3/3 11:48:19.170 Dropped SM_FD_Grapes_06
+2020/3/3 11:48:19.370 Placed SM_FD_Grapes_06 onto plate SM_Plate_Blueprint8
+2020/3/3 11:48:21.84 Picked up SM_FD_Grapes_15
+2020/3/3 11:48:22.502 Dropped SM_FD_Grapes_15
+2020/3/3 11:48:22.703 Placed SM_FD_Grapes_15 onto plate SM_Plate_Blueprint8
+2020/3/3 11:48:26.987 Placed SM_Plate_Blueprint8 onto plate SM_Plate_Blueprint9
+2020/3/3 11:48:27.165 Dropped SM_Plate_Blueprint8
+2020/3/3 11:48:27.189 Placed SM_RegesterCounter_2 onto plate SM_Plate_Blueprint8
+2020/3/3 11:48:27.299 Placed BP_FD_Chicken_Cajun_C_2147482168 onto plate SM_Plate_Blueprint9
+2020/3/3 11:48:3.579 Picked up SM_FD_Cookies_ChocChip_01_2
+2020/3/3 11:48:34.807 Picked up SM_FD_Strawberry8 from plate
+2020/3/3 11:48:35.274 Placed SM_FD_Strawberry8 onto plate SM_Plate_Blueprint8
+2020/3/3 11:48:35.851 Dropped SM_FD_Strawberry8
+2020/3/3 11:48:36.495 Picked up SM_Plate_Blueprint8
+2020/3/3 11:48:38.871 Dropped SM_Plate_Blueprint8
+2020/3/3 11:48:4.890 Dropped SM_FD_Cookies_ChocChip_01_2
+2020/3/3 11:48:43.135 Picked up BP_FD_Chicken_Cajun_C_2147482168 from plate
+2020/3/3 11:48:43.691 Dropped BP_FD_Chicken_Cajun_C_2147482168
+2020/3/3 11:48:44.3 Placed BP_FD_Chicken_Cajun_C_2147482168 onto plate SM_Plate_Blueprint9
+2020/3/3 11:48:44.447 Picked up BP_FD_Fries_SweetPotato_C_2147482172 from plate
+2020/3/3 11:48:44.669 Placed SM_Floor_14 onto plate SM_Plate_Blueprint9
+2020/3/3 11:48:45.290 Dropped BP_FD_Fries_SweetPotato_C_2147482172
+2020/3/3 11:48:45.513 Placed SM_Floor_14 onto plate SM_Plate_Blueprint9
+2020/3/3 11:48:46.113 Picked up SM_FD_Breadstick_9 from plate
+2020/3/3 11:48:46.313 Placed SM_FD_Breadstick_9 onto plate SM_Plate_Blueprint9
+2020/3/3 11:48:46.535 Placed SM_Floor_14 onto plate SM_Plate_Blueprint9
+2020/3/3 11:48:46.846 Dropped SM_FD_Breadstick_9
+2020/3/3 11:48:47.268 Placed SM_Floor_14 onto plate SM_Plate_Blueprint9
+2020/3/3 11:48:47.46 Placed SM_FD_Breadstick_9 onto plate SM_Plate_Blueprint9
+2020/3/3 11:48:47.889 Picked up SM_Plate_Blueprint9
+2020/3/3 11:48:48.90 Placed BP_FD_Fries_SweetPotato_C_2147482172 onto plate SM_Plate_Blueprint9
+2020/3/3 11:48:5.136 Placed SM_FD_Cookies_ChocChip_01_2 onto plate SM_Plate_Blueprint8
+2020/3/3 11:48:50.775 Dropped SM_Plate_Blueprint9
+2020/3/3 11:48:51.43 Placed BP_FD_Fries_SweetPotato_C_2147482172 onto plate SM_Plate_Blueprint8
+2020/3/3 11:48:59.15 Picked up SM_BeverageCup_Blueprint3
+2020/3/3 11:48:7.622 Picked up SM_FD_Strawberry4
+2020/3/3 11:48:9.265 Placed SM_FD_Strawberry4 onto plate SM_Plate_Blueprint8
+2020/3/3 11:48:9.87 Dropped SM_FD_Strawberry4
+2020/3/3 11:49:14.631 Dropped SM_BeverageCup_Blueprint3
+SKA_BeverageLiquid_CokeDiet_99%
+SM_FD_Breadstick_001
+SM_FD_Carrots_Roasted_Prtn_005
+SM_FD_Chicken_Cajun_Prtn_006
+SM_FD_Cookies_ChocChip_01
+SM_FD_Fries_SweetPotato_Prtn_008
+SM_FD_Grapes_02
+SM_FD_Grapes_02
+SM_FD_Pasta_White_Prtn_007
+SM_FD_Strawberry
+SM_FD_Strawberry
+SM_Plate
+SM_Plate

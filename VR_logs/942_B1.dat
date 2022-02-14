@@ -1,0 +1,76 @@
+2020/2/12 13:12:46.779 Picked up SM_Plate_Blueprint9
+2020/2/12 13:12:49.267 Picked up BP_FD_Potatoes_Mashed_C_2147482435
+2020/2/12 13:12:52.155 Dropped BP_FD_Potatoes_Mashed_C_2147482435
+2020/2/12 13:12:52.422 Placed BP_FD_Potatoes_Mashed_C_2147482435 onto plate SM_Plate_Blueprint9
+2020/2/12 13:12:55.576 Picked up BP_FD_Beef_Braised_C_2147482433
+2020/2/12 13:13:0.486 Dropped BP_FD_Beef_Braised_C_2147482433
+2020/2/12 13:13:0.753 Placed BP_FD_Beef_Braised_C_2147482433 onto plate SM_Plate_Blueprint9
+2020/2/12 13:13:10.415 Picked up BP_FD_Carrots_Roasted_C_2147482431
+2020/2/12 13:13:12.224 Dropped BP_FD_Carrots_Roasted_C_2147482431
+2020/2/12 13:13:12.468 Placed BP_FD_Carrots_Roasted_C_2147482431 onto plate SM_Plate_Blueprint9
+2020/2/12 13:13:13.69 Picked up BP_FD_GreenBeans_C_2147482429
+2020/2/12 13:13:15.246 Dropped BP_FD_GreenBeans_C_2147482429
+2020/2/12 13:13:15.555 Placed BP_FD_GreenBeans_C_2147482429 onto plate SM_Plate_Blueprint9
+2020/2/12 13:13:19.843 Dropped SM_Plate_Blueprint9
+2020/2/12 13:13:23.661 Picked up SM_BwlSm_Blueprint2
+2020/2/12 13:13:38.950 Dropped SM_BwlSm_Blueprint2
+2020/2/12 13:13:38.950 Picked up SM_BwlSm_Blueprint2
+2020/2/12 13:13:45.144 Dropped SM_BwlSm_Blueprint2
+2020/2/12 13:13:49.361 Picked up SM_BwlSm_Blueprint3
+2020/2/12 13:13:59.203 Dropped SM_BwlSm_Blueprint3
+2020/2/12 13:14:11.190 Picked up SM_FD_DinnerRoll_White_4
+2020/2/12 13:14:12.254 Dropped SM_FD_DinnerRoll_White_4
+2020/2/12 13:14:12.479 Placed SM_FD_DinnerRoll_White_4 onto plate SM_Plate_Blueprint5
+2020/2/12 13:14:18.676 Picked up SM_FD_Strawberry4
+2020/2/12 13:14:19.165 Dropped SM_FD_Strawberry4
+2020/2/12 13:14:19.367 Placed SM_FD_Strawberry4 onto plate SM_Plate_Blueprint5
+2020/2/12 13:14:19.698 Picked up SM_FD_Strawberry5
+2020/2/12 13:14:20.626 Dropped SM_FD_Strawberry5
+2020/2/12 13:14:20.868 Placed SM_FD_Strawberry5 onto plate SM_Plate_Blueprint5
+2020/2/12 13:14:21.109 Picked up SM_FD_Strawberry6
+2020/2/12 13:14:21.708 Dropped SM_FD_Strawberry6
+2020/2/12 13:14:21.908 Placed SM_FD_Strawberry6 onto plate SM_Plate_Blueprint5
+2020/2/12 13:14:24.907 Picked up SM_FD_Apple_Slice_8
+2020/2/12 13:14:25.618 Dropped SM_FD_Apple_Slice_8
+2020/2/12 13:14:25.841 Placed SM_FD_Apple_Slice_8 onto plate SM_Plate_Blueprint5
+2020/2/12 13:14:26.130 Picked up SM_FD_Apple_Slice_34
+2020/2/12 13:14:26.864 Dropped SM_FD_Apple_Slice_34
+2020/2/12 13:14:27.111 Placed SM_FD_Apple_Slice_34 onto plate SM_Plate_Blueprint5
+2020/2/12 13:14:27.506 Picked up SM_FD_Apple_Slice_6
+2020/2/12 13:14:28.262 Dropped SM_FD_Apple_Slice_6
+2020/2/12 13:14:30.794 Picked up SM_FD_LemonSquare_8
+2020/2/12 13:14:31.883 Dropped SM_FD_LemonSquare_8
+2020/2/12 13:14:32.128 Placed SM_FD_LemonSquare_8 onto plate SM_Plate_Blueprint5
+2020/2/12 13:14:34.899 Dropped SM_Plate_Blueprint5
+2020/2/12 13:14:7.267 Picked up SM_Plate_Blueprint5
+2020/2/12 13:15:1.775 Picked up BP_FD_Beef_Braised_C_2147482433 from plate
+2020/2/12 13:15:1.976 Placed BP_FD_Beef_Braised_C_2147482433 onto plate SM_Plate_Blueprint9
+2020/2/12 13:15:11.482 Picked up BP_FD_Beef_Braised_C_2147482425
+2020/2/12 13:15:13.391 Dropped BP_FD_Beef_Braised_C_2147482425
+2020/2/12 13:15:16.330 Placed BP_FD_Beef_Braised_C_2147482425 onto plate SM_Plate_Blueprint9
+2020/2/12 13:15:2.598 Dropped BP_FD_Beef_Braised_C_2147482433
+2020/2/12 13:15:2.665 Picked up SM_Plate_Blueprint9
+2020/2/12 13:15:2.776 Placed BP_FD_Beef_Braised_C_2147482433 onto plate SM_Plate_Blueprint9
+2020/2/12 13:15:20.58 Picked up BP_FD_Potatoes_Mashed_C_2147482423
+2020/2/12 13:15:22.301 Dropped BP_FD_Potatoes_Mashed_C_2147482423
+2020/2/12 13:15:28.695 Dropped SM_Plate_Blueprint9
+2020/2/12 13:15:6.105 Picked up BP_FD_Beef_Braised_C_2147482433
+2020/2/12 13:15:6.840 Dropped BP_FD_Beef_Braised_C_2147482433
+2020/2/12 13:15:7.84 Placed BP_FD_Beef_Braised_C_2147482433 onto plate SM_Plate_Blueprint9
+SK_Soup_Tomato_Anim_74%
+SM_FD_Apple_Slice_01
+SM_FD_Apple_Slice_01
+SM_FD_Apple_Slice_01
+SM_FD_Beef_Braised_Prtn_005
+SM_FD_Beef_Braised_Prtn_006
+SM_FD_Carrots_Roasted_Prtn_005
+SM_FD_DinnerRoll_White_01
+SM_FD_GreenBeans_Prtn_004
+SM_FD_LemonSquare_01
+SM_FD_Potatoes_Mashed_Prtn_005
+SM_FD_Potatoes_Mashed_Prtn_006
+SM_FD_Strawberry
+SM_FD_Strawberry
+SM_FD_Strawberry
+SM_Plate
+SM_Plate

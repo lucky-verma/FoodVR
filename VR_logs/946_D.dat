@@ -1,0 +1,59 @@
+2020/3/9 12:40:45.770 Picked up SM_Plate_Blueprint6
+2020/3/9 12:40:51.990 Picked up BP_FD_Broccoli_Steamed_C_2147482489
+2020/3/9 12:40:54.832 Dropped BP_FD_Broccoli_Steamed_C_2147482489
+2020/3/9 12:40:55.99 Placed BP_FD_Broccoli_Steamed_C_2147482489 onto plate SM_Plate_Blueprint6
+2020/3/9 12:41:1.431 Picked up BP_FD_Chicken_Cajun_C_2147482487
+2020/3/9 12:41:10.360 Placed BP_FD_Beans_Black_C_2147482485 onto plate SM_Plate_Blueprint6
+2020/3/9 12:41:10.48 Dropped BP_FD_Beans_Black_C_2147482485
+2020/3/9 12:41:20.954 Picked up BP_FD_Pasta_White_C_2147482483
+2020/3/9 12:41:22.709 Dropped BP_FD_Pasta_White_C_2147482483
+2020/3/9 12:41:22.998 Placed BP_FD_Pasta_White_C_2147482483 onto plate SM_Plate_Blueprint6
+2020/3/9 12:41:25.951 Picked up BP_FD_Sauce_LoCal_C_2147482481
+2020/3/9 12:41:27.528 Dropped BP_FD_Sauce_LoCal_C_2147482481
+2020/3/9 12:41:27.818 Placed BP_FD_Sauce_LoCal_C_2147482481 onto plate SM_Plate_Blueprint6
+2020/3/9 12:41:35.481 Picked up SM_FD_PizzaBite_Veggie_2
+2020/3/9 12:41:37.767 Dropped SM_FD_PizzaBite_Veggie_2
+2020/3/9 12:41:38.13 Placed SM_FD_PizzaBite_Veggie_2 onto plate SM_Plate_Blueprint6
+2020/3/9 12:41:4.607 Dropped BP_FD_Chicken_Cajun_C_2147482487
+2020/3/9 12:41:4.828 Placed BP_FD_Chicken_Cajun_C_2147482487 onto plate SM_Plate_Blueprint6
+2020/3/9 12:41:43.566 Picked up BP_FD_Fries_Regular_C_2147482479
+2020/3/9 12:41:45.346 Dropped BP_FD_Fries_Regular_C_2147482479
+2020/3/9 12:41:49.163 Dropped SM_Plate_Blueprint6
+2020/3/9 12:41:49.453 Placed SM_RegesterCounter_2 onto plate SM_Plate_Blueprint6
+2020/3/9 12:41:49.653 Placed SM_RegesterCounter_2 onto plate SM_Plate_Blueprint6
+2020/3/9 12:41:54.649 Picked up SM_Plate_Blueprint7
+2020/3/9 12:41:58.275 Picked up SM_FD_Strawberry4
+2020/3/9 12:41:59.140 Dropped SM_FD_Strawberry4
+2020/3/9 12:41:59.385 Placed SM_FD_Strawberry4 onto plate SM_Plate_Blueprint7
+2020/3/9 12:41:59.828 Picked up SM_FD_Strawberry8
+2020/3/9 12:41:8.93 Picked up BP_FD_Beans_Black_C_2147482485
+2020/3/9 12:42:0.540 Dropped SM_FD_Strawberry8
+2020/3/9 12:42:0.807 Placed SM_FD_Strawberry8 onto plate SM_Plate_Blueprint7
+2020/3/9 12:42:1.207 Picked up SM_FD_Grapes_06
+2020/3/9 12:42:12.509 Placed BP_FD_Fries_Regular_C_2147482479 onto plate SM_Plate_Blueprint6
+2020/3/9 12:42:12.575 Dropped SM_Plate_Blueprint7
+2020/3/9 12:42:18.638 Picked up SM_BeverageCup_Blueprint4_219
+2020/3/9 12:42:2.426 Dropped SM_FD_Grapes_06
+2020/3/9 12:42:2.673 Placed SM_FD_Grapes_06 onto plate SM_Plate_Blueprint7
+2020/3/9 12:42:3.182 Picked up SM_FD_Strawberry6
+2020/3/9 12:42:32.676 Dropped SM_BeverageCup_Blueprint4_219
+2020/3/9 12:42:5.205 Dropped SM_FD_Strawberry6
+2020/3/9 12:42:5.516 Placed SM_FD_Strawberry6 onto plate SM_Plate_Blueprint7
+2020/3/9 12:42:7.979 Picked up SM_FD_LemonSquare_8
+2020/3/9 12:42:8.845 Dropped SM_FD_LemonSquare_8
+2020/3/9 12:42:9.23 Placed SM_FD_LemonSquare_8 onto plate SM_Plate_Blueprint7
+SKA_BeverageLiquid_Water_91%
+SM_FD_Beans_Black_Prtn_006
+SM_FD_Broccoli_Steamed_Prtn_005
+SM_FD_Chicken_Cajun_Prtn_007
+SM_FD_Fries_Regular_Prtn_006
+SM_FD_Grapes_02
+SM_FD_LemonSquare_01
+SM_FD_Pasta_White_Prtn_005
+SM_FD_PizzaBite_Veggie_01
+SM_FD_Sauce_LoCal_Prtn_005
+SM_FD_Strawberry
+SM_FD_Strawberry
+SM_FD_Strawberry
+SM_Plate
+SM_Plate

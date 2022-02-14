@@ -1,0 +1,63 @@
+2020/2/12 13:16:10.197 Picked up SM_Plate_Blueprint6
+2020/2/12 13:16:15.43 Picked up BP_FD_Fries_Regular_C_2147482369
+2020/2/12 13:16:17.486 Dropped BP_FD_Fries_Regular_C_2147482369
+2020/2/12 13:16:17.706 Placed BP_FD_Fries_Regular_C_2147482369 onto plate SM_Plate_Blueprint6
+2020/2/12 13:16:22.659 Picked up BP_FD_Pasta_White_C_2147482367
+2020/2/12 13:16:24.193 Dropped BP_FD_Pasta_White_C_2147482367
+2020/2/12 13:16:24.438 Placed BP_FD_Pasta_White_C_2147482367 onto plate SM_Plate_Blueprint6
+2020/2/12 13:16:26.437 Picked up BP_FD_Pasta_White_C_2147482367
+2020/2/12 13:16:28.989 Dropped BP_FD_Pasta_White_C_2147482367
+2020/2/12 13:16:29.167 Placed BP_FD_Pasta_White_C_2147482367 onto plate SM_Plate_Blueprint6
+2020/2/12 13:16:29.435 Picked up BP_FD_Fries_Regular_C_2147482369
+2020/2/12 13:16:31.455 Dropped BP_FD_Fries_Regular_C_2147482369
+2020/2/12 13:16:31.633 Placed BP_FD_Fries_Regular_C_2147482369 onto plate SM_Plate_Blueprint6
+2020/2/12 13:16:32.432 Picked up BP_FD_Pasta_White_C_2147482367
+2020/2/12 13:16:32.989 Dropped BP_FD_Pasta_White_C_2147482367
+2020/2/12 13:16:33.188 Placed BP_FD_Pasta_White_C_2147482367 onto plate SM_Plate_Blueprint6
+2020/2/12 13:16:36.76 Picked up BP_FD_Sauce_Alfredo_C_2147482365
+2020/2/12 13:16:40.743 Dropped BP_FD_Sauce_Alfredo_C_2147482365
+2020/2/12 13:16:41.30 Placed BP_FD_Sauce_Alfredo_C_2147482365 onto plate SM_Plate_Blueprint6
+2020/2/12 13:16:57.154 Picked up BP_FD_Carrots_Roasted_C_2147482363
+2020/2/12 13:17:0.843 Dropped BP_FD_Carrots_Roasted_C_2147482363
+2020/2/12 13:17:1.21 Placed BP_FD_Carrots_Roasted_C_2147482363 onto plate SM_Plate_Blueprint6
+2020/2/12 13:17:10.728 Dropped SM_Plate_Blueprint6
+2020/2/12 13:17:18.454 Picked up SM_BeverageCup_Blueprint4_219
+2020/2/12 13:17:32.295 Dropped SM_BeverageCup_Blueprint4_219
+2020/2/12 13:17:36.827 Picked up SM_Plate_Blueprint9
+2020/2/12 13:17:39.849 Picked up SM_FD_Pizza_Pepp_Piece04
+2020/2/12 13:17:40.204 Placed SM_FD_Pizza_Cheese_Piece04 onto plate SM_Plate_Blueprint9
+2020/2/12 13:17:40.782 Dropped SM_FD_Pizza_Pepp_Piece04
+2020/2/12 13:17:40.983 Placed SM_FD_Pizza_Pepp_Piece04 onto plate SM_Plate_Blueprint9
+2020/2/12 13:17:43.736 Picked up SM_FD_Pizza_Cheese_Piece04
+2020/2/12 13:17:44.313 Dropped SM_FD_Pizza_Cheese_Piece04
+2020/2/12 13:17:45.233 Picked up SM_FD_Pizza_Pepp_Piece05_35
+2020/2/12 13:17:46.123 Dropped SM_FD_Pizza_Pepp_Piece05_35
+2020/2/12 13:17:46.412 Placed SM_FD_Pizza_Pepp_Piece05_35 onto plate SM_Plate_Blueprint9
+2020/2/12 13:18:0.312 Placed SM_FD_LemonSquare_7 onto plate SM_Plate_Blueprint9
+2020/2/12 13:18:0.531 Placed SM_FD_LemonSquare_8 onto plate SM_Plate_Blueprint9
+2020/2/12 13:18:0.663 Picked up SM_FD_Cookies_ChocChip_01_2
+2020/2/12 13:18:1.954 Dropped SM_FD_Cookies_ChocChip_01_2
+2020/2/12 13:18:10.634 Dropped SM_Plate_Blueprint9
+2020/2/12 13:18:2.130 Placed SM_FD_Cookies_ChocChip_01_2 onto plate SM_Plate_Blueprint9
+2020/2/12 13:18:2.862 Picked up SM_FD_Cookies_ChocChip_3
+2020/2/12 13:18:3.975 Dropped SM_FD_Cookies_ChocChip_3
+2020/2/12 13:18:4.221 Placed SM_FD_Cookies_ChocChip_3 onto plate SM_Plate_Blueprint9
+2020/2/12 13:18:4.685 Picked up SM_FD_LemonSquare_7
+2020/2/12 13:18:5.885 Dropped SM_FD_LemonSquare_7
+2020/2/12 13:18:6.152 Placed SM_FD_LemonSquare_7 onto plate SM_Plate_Blueprint9
+2020/2/12 13:18:6.572 Picked up SM_FD_LemonSquare_8
+2020/2/12 13:18:7.883 Dropped SM_FD_LemonSquare_8
+2020/2/12 13:18:8.128 Placed SM_FD_LemonSquare_8 onto plate SM_Plate_Blueprint9
+SKA_BeverageLiquid_Milk_83%
+SM_FD_Carrots_Roasted_Prtn_006
+SM_FD_Cookies_ChocChip_01
+SM_FD_Cookies_ChocChip_01
+SM_FD_Fries_Regular_Prtn_007
+SM_FD_LemonSquare_01
+SM_FD_LemonSquare_01
+SM_FD_Pasta_White_Prtn_008
+SM_FD_Pizza_Pepp_Piece03
+SM_FD_Pizza_Pepp_Piece05
+SM_FD_Sauce_Alfredo_Prtn_006
+SM_Plate
+SM_Plate
