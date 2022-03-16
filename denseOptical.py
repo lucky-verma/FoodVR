@@ -46,11 +46,12 @@ def rescale_frame(frame, percent=75):
     return cv2.resize(frame, dim, interpolation =cv2.INTER_AREA)
 
 cap = cv2.VideoCapture(r"C:\Users\lucki\WORK\UMBC\FoodVR\data\877VR_B_Trim1.MP4")
-cap.set(cv2.CAP_PROP_FPS, 30)
+# cap.set(cv2.CAP_PROP_FPS, 30)
+cap.isOpened()
 
 try:
     suc, prev = cap.read()
-    prev = rescale_frame(prev, percent=30)
+    prev = rescale_frame(prev, percent=15)
     prevgray = cv2.cvtColor(prev, cv2.COLOR_BGR2GRAY)
 except:
     pass
@@ -61,7 +62,7 @@ try:
     while True:
 
         suc, img = cap.read()
-        img = rescale_frame(img, percent=30)
+        img = rescale_frame(img, percent=15)
         gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
         # start time to calculate FPS
