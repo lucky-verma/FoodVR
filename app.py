@@ -306,12 +306,16 @@ elif add_selectbox == 'Video Analyzer':
             mean_per_second = np.add.reduceat(meanList, np.arange(0, len(meanList), 30))
             std_per_second = np.add.reduceat(stdList, np.arange(0, len(stdList), 30))
 
+            st.write("Std per second")
             st.area_chart(pd.DataFrame(std_per_second).fillna(method="ffill"))
-            st.area_chart(pd.DataFrame(mean_per_second).fillna(method="ffill"))
+            st.write("Std per frame")
+            st.area_chart(pd.DataFrame(stdList).fillna(method="ffill"))
+            st.write("raw output")
+            st.area_chart(pd.DataFrame(meanList).fillna(method="ffill"))
 
     
     st.header('TODO:')
-    st.write('- Decraese circles/lines')
-    st.write('- Make it more faster')
-    st.write('- try croping the video')
-    st.write('- try removing the soft cap')
+    st.write('- Decraese circles/lines ✅')
+    st.write('- Make it more faster ✅')
+    st.write('- try croping the video ✅')
+    st.write('- try removing the soft cap ✅')

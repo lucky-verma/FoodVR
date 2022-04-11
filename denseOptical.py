@@ -51,7 +51,7 @@ cap.isOpened()
 
 try:
     suc, prev = cap.read()
-    prev = rescale_frame(prev, percent=15)
+    prev = rescale_frame(prev, percent=50)
     prevgray = cv2.cvtColor(prev, cv2.COLOR_BGR2GRAY)
 except:
     pass
@@ -62,7 +62,7 @@ try:
     while True:
 
         suc, img = cap.read()
-        img = rescale_frame(img, percent=15)
+        img = rescale_frame(img, percent=50)
         gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
         # start time to calculate FPS
